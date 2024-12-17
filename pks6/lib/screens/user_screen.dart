@@ -7,7 +7,7 @@ class UserScreen extends StatefulWidget {
 
 class _UserScreenState extends State<UserScreen> {
   String _name = 'Зудилина Дарья';
-  String _email = 'medvedev@mail.ru';
+  String _email = 'mail@mail.ru';
   String _phone = '+7 (987) 654 32 10';
 
   void _editProfile() {
