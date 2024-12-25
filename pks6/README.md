@@ -9,3 +9,4 @@
 5. В избранное товар можно добавить как с главной страницы так и со страницы товара 
 
 
+https://drive.google.com/file/d/1VY0BLpRQNfgsVFlc1bEAaLvyN_QPQHpY/view?usp=sharing
